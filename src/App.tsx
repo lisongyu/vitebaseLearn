@@ -1,7 +1,5 @@
 
-// import {Header} from './components/Header'
-
-import {Header} from './components/Header/vindi' // windi.css演示
+ import {Header} from './components/Header'
 function App() {
  
   return (
